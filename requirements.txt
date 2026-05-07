@@ -1,0 +1,8 @@
+streamlit
+chromadb
+sentence-transformers
+google-genai
+st-gsheets-connection
+pandas
+extra-streamlit-components
+torch
