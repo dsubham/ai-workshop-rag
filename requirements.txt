@@ -7,3 +7,4 @@ pandas
 extra-streamlit-components
 torch
 protobuf==4.25.3
+torchvision
